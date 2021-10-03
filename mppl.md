@@ -1,7 +1,7 @@
 # Manajemen Proyek Perangkat Lunak (MPPL) 
 
 ## **Waterfall Model**
->Yakni sebuah desain  proses yang sequensial *berurutan* yang dalam progressnya terlihat seperti aliran air ter-jun *waterfall* dari proses perancangan konsep, inisialisasi project, alanisis, desain, pembuatan system *coding*, testing, produksi/implementasi dan perawatan *maintenance*.
+>Model Waterfall adalah sebuah desain  proses yang sequensial *berurutan* yang dalam progressnya terlihat seperti aliran air ter-jun *waterfall* dari proses perancangan konsep, inisialisasi project, alanisis, desain, pembuatan system *coding*, testing, produksi/implementasi dan perawatan *maintenance*.
 
 Kelebihan dari metode ini yakni :
 * Mudah dimengerti, mudah digunakan,
@@ -22,7 +22,7 @@ dikarenakan fase yang harus berurut.
 * Perubahan  requirement  dapat  merubah  keseluruhan proses yang telah dilaksanakan.
 
 ## **Prototyping**
- >Yakni sebuah pendekatan pengembangan dalam sebuah aktiﬁtas pengembangan perangkat lunak untuk pembuatan prototype,  misalnya berupa produk belum jadi dari peragkat lunak yang dikembangkan.
+ >Model Prototyping adalah sebuah pendekatan pengembangan dalam sebuah aktiﬁtas pengembangan perangkat lunak untuk pembuatan prototype,  misalnya berupa produk belum jadi dari peragkat lunak yang dikembangkan.
 
  Metode ini memiliki banyak kelebihan yakni :
 * Developer belajar langsung mengenai kebutuhan sistem dari customer/user,

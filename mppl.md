@@ -20,7 +20,7 @@ dikarenakan fase yang harus berurut.
 * Resiko sangat tinggi, karena testing hanya dilakukan pada  setiap  akhir  fase,  bahkan  tidak  jarang  testing hanya dilakukan di akhir-akhir project.
 * Membutuhkan waktu yang cukup lama (walaupun projectnya tidak terlalu besar).
 * Perubahan  requirement  dapat  merubah  keseluruhan proses yang telah dilaksanakan.
----
+
 ## **Prototyping**
  >Yakni sebuah pendekatan pengembangan dalam sebuah aktiﬁtas pengembangan perangkat lunak untuk pembuatan prototype,  misalnya berupa produk belum jadi dari peragkat lunak yang dikembangkan.
 
@@ -38,7 +38,7 @@ Sedangkan kekurangannya yakni :
 * Reputasi  yang  buruk  sebagai  sebuah  metode  yang bersifat ”Quick-and-Dirty”.
 * Kemungkinan perawatan secara keseluruhan bisa saja terabaikan.
 * Pengembangan yang berlebihan untuk prototype.
----
+
 ## **Spiral** 
 >Model Spiral adalah proses pengembangan perangkat lunak yang menggabungkan antara elemen waterfall model dengan prototyping dalam setiap tahap, dalam upaya untuk menggabungkan keuntungan dari konsep top-down dan bottom-up.  Model ini pertama kali dikenalkan pada tahun 1988 oleh Barry Boehm.  
 

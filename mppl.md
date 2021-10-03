@@ -1,6 +1,6 @@
-## Manajemen Proyek Perangkat Lunak (MPPL) 
+# Manajemen Proyek Perangkat Lunak (MPPL) 
 
-#### **Waterfall Model**
+## **Waterfall Model**
 >Yakni sebuah desain  proses yang sequensial *berurutan* yang dalam progressnya terlihat seperti aliran air ter-jun *waterfall* dari proses perancangan konsep, inisialisasi project, alanisis, desain, pembuatan system *coding*, testing, produksi/implementasi dan perawatan *maintenance*.
 
 Kelebihan dari metode ini yakni :
@@ -21,7 +21,7 @@ dikarenakan fase yang harus berurut.
 * Membutuhkan waktu yang cukup lama (walaupun projectnya tidak terlalu besar).
 * Perubahan  requirement  dapat  merubah  keseluruhan proses yang telah dilaksanakan.
 ---
-#### **Prototyping**
+## **Prototyping**
  >Yakni sebuah pendekatan pengembangan dalam sebuah aktiﬁtas pengembangan perangkat lunak untuk pembuatan prototype,  misalnya berupa produk belum jadi dari peragkat lunak yang dikembangkan.
 
  Metode ini memiliki banyak kelebihan yakni :
@@ -39,7 +39,7 @@ Sedangkan kekurangannya yakni :
 * Kemungkinan perawatan secara keseluruhan bisa saja terabaikan.
 * Pengembangan yang berlebihan untuk prototype.
 ---
-#### **Spiral** 
+## **Spiral** 
 >Model Spiral adalah proses pengembangan perangkat lunak yang menggabungkan antara elemen waterfall model dengan prototyping dalam setiap tahap, dalam upaya untuk menggabungkan keuntungan dari konsep top-down dan bottom-up.  Model ini pertama kali dikenalkan pada tahun 1988 oleh Barry Boehm.  
 
 Kelebihan dari model ini yakni :

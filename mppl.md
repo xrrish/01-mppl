@@ -1,7 +1,7 @@
 ## Manajemen Proyek Perangkat Lunak (MPPL) 
 
 #### **Waterfall Model**
-Yakni sebuah desain  proses yang sequensial *berurutan* yang dalam progressnya terlihat seperti aliran air ter-jun *waterfall* dari proses perancangan konsep, inisialisasi project, alanisis, desain, pembuatan system *coding*, testing, produksi/implementasi dan perawatan *maintenance*.
+>Yakni sebuah desain  proses yang sequensial *berurutan* yang dalam progressnya terlihat seperti aliran air ter-jun *waterfall* dari proses perancangan konsep, inisialisasi project, alanisis, desain, pembuatan system *coding*, testing, produksi/implementasi dan perawatan *maintenance*.
 
 Kelebihan dari metode ini yakni :
 * Mudah dimengerti, mudah digunakan,
@@ -20,9 +20,9 @@ dikarenakan fase yang harus berurut.
 * Resiko sangat tinggi, karena testing hanya dilakukan pada  setiap  akhir  fase,  bahkan  tidak  jarang  testing hanya dilakukan di akhir-akhir project.
 * Membutuhkan waktu yang cukup lama (walaupun projectnya tidak terlalu besar).
 * Perubahan  requirement  dapat  merubah  keseluruhan proses yang telah dilaksanakan.
-
+---
 #### **Prototyping**
- Yakni sebuah pendekatan pengembangan dalam sebuah aktiﬁtas pengembangan perangkat lunak untuk pembuatan prototype,  misalnya berupa produk belum jadi dari peragkat lunak yang dikembangkan.
+ >Yakni sebuah pendekatan pengembangan dalam sebuah aktiﬁtas pengembangan perangkat lunak untuk pembuatan prototype,  misalnya berupa produk belum jadi dari peragkat lunak yang dikembangkan.
 
  Metode ini memiliki banyak kelebihan yakni :
 * Developer belajar langsung mengenai kebutuhan sistem dari customer/user,
@@ -38,9 +38,9 @@ Sedangkan kekurangannya yakni :
 * Reputasi  yang  buruk  sebagai  sebuah  metode  yang bersifat ”Quick-and-Dirty”.
 * Kemungkinan perawatan secara keseluruhan bisa saja terabaikan.
 * Pengembangan yang berlebihan untuk prototype.
-
+---
 #### **Spiral** 
-Model Spiral adalah proses pengembangan perangkat lunak yang menggabungkan antara elemen waterfall model dengan prototyping dalam setiap tahap, dalam upaya untuk menggabungkan keuntungan dari konsep top-down dan bottom-up.  Model ini pertama kali dikenalkan pada tahun 1988 oleh Barry Boehm.  
+>Model Spiral adalah proses pengembangan perangkat lunak yang menggabungkan antara elemen waterfall model dengan prototyping dalam setiap tahap, dalam upaya untuk menggabungkan keuntungan dari konsep top-down dan bottom-up.  Model ini pertama kali dikenalkan pada tahun 1988 oleh Barry Boehm.  
 
 Kelebihan dari model ini yakni :
 * User dapat melihat sistem lebih awal dengan adanya rapid prototyping tools,

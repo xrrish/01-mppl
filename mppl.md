@@ -54,6 +54,6 @@ Sedangkan kelemahanannya yakni :
 * Beresiko besar jika tidak sesuai dengan budget atau schedule.
 * Penggunaan waktu untuk melakukan evaluasi resiko terlalu besar.
 * Spiral (siklus) munkin bisa berlanjut tanpa batas.
-• Bisa  sangat  sulit  untuk  mendeﬁnisikan  tujuan  dan pencapaian yang menujjukkan kesiapan untuk melan-
+* Bisa  sangat  sulit  untuk  mendeﬁnisikan  tujuan  dan pencapaian yang menujjukkan kesiapan untuk melan-
 jutkan menuju ke iterasi berikutnya.
-• Model ini hanya bekerja dengan baik pada project yang berukuran besar dan memiliki waktu pengerjaan yang panjang juga.
+* Model ini hanya bekerja dengan baik pada project yang berukuran besar dan memiliki waktu pengerjaan yang panjang juga.
